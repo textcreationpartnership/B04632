@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the universally lamented death of the incomparable Dr. Short. A pindarick elegy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04632</idno>
+            <idno type="OCLC"> 12988518</idno>
+            <idno type="STC">Wing O329</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[297]</idno>
+            <idno type="STC">ESTC R6795</idno>
+            <idno type="EEBO-CITATION">99890862</idno>
+            <idno type="PROQUEST">ocm99890862</idno>
+            <idno type="VID">181619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181619)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[300])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the universally lamented death of the incomparable Dr. Short. A pindarick elegy.</title>
+               </titleStmt>
+               <extent>4+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: all lacking after p. 4.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Short, Thomas, 1635-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181619:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>ON THE Univerſally Lamented DEATH Of the Incomparable D<hi rend="sup">R.</hi> SHORT.</head>
+            <p>
+               <hi>A Pindarick Elegy.</hi>
+            </p>
+            <lg n="1">
+               <head>Stanza I.</head>
+               <l>AH! What avails it to be <hi>Wiſe</hi> and <hi>Good!</hi>
+               </l>
+               <l>Great <hi>Merit</hi> with it's own Weight falls:</l>
+               <l>Soon as Diffuſive grown, and Underſtood,</l>
+               <l>It ſtraight from <hi>Hell</hi> pale <hi>Envy</hi> calls.</l>
+               <l>
+                  <hi>Envy,</hi> whoſe ſquinting Eye</l>
+               <l>Sees Faults, when only' it ſelf does look awry.</l>
+               <l>Yet it no <hi>Mortal</hi> was, nor could it be</l>
+               <l>Any on Earth, <hi>Beſt</hi> SHORT, could envy Thee.</l>
+               <l>Thou all th' <hi>Attractives</hi> hadſt, which uſe t'affect</l>
+               <l>With deareſt Love, and win profound Reſpect;</l>
+               <l>And, Friend to All, no Enemy could'ſt ſuſpect.</l>
+               <pb n="2" facs="tcp:181619:2"/>
+               <!-- PDF PAGE 11 -->
+               <l>'Twas none but <hi>Death,</hi> and Mankind's Foe that envy'd Thee.</l>
+               <l>
+                  <hi>Death,</hi> from whoſe gaping Jaws thou hadſt redeem'd</l>
+               <l>Such Multitudes, that Thin his Empire ſeem'd.</l>
+               <l>Enrag'd at this, the Lean-chapt Monſter bent</l>
+               <l>His Courſe to <hi>Hell,</hi> whoſe gloomy Vales deſcent</l>
+               <l>Borders upon his Realm, the <hi>Grave;</hi>
+               </l>
+               <l>Of the Black Tyrant Audience to crave.</l>
+               <l>Upon his Hairleſs Scalp a Wigg he wore</l>
+               <l>Of Worms, that gap't dead Bodies to devour.</l>
+               <l>A plaguy Vapour, grateful to the <hi>Stygian</hi> King,</l>
+               <l>(For Holy-day ſuit) about his Bones did cling;</l>
+               <l>And in his Hand a choſen Dart, as ſharp as <hi>Adders</hi> Sting.</l>
+               <l>Arriv'd; his rattling Grinders ſilence broke,</l>
+               <l>And, from his grinning Mouth, thus chattering ſpoke.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>'Twas half in vain your witty Art did cheat</l>
+               <l>
+                  <hi>Adam,</hi> the Death-deriving Fruit to Eat;</l>
+               <l>Unleſs your Victory you maintain,</l>
+               <l>Sly Mankind will at length his points regain.</l>
+               <l>Neer <hi>Thameſis</hi>'s rich Banks are pack't <note n="*" place="margin">The Col<g ref="char:EOLhyphen"/>ledge of Phyſicians</note> a Crew,</l>
+               <l>Who ſtrive your noble Spite with <hi>Art</hi> t'out do.</l>
+               <l>Our common Grievance, <hi>Health,</hi> they, at command,</l>
+               <l>Preſerve, reſtore, with ſeldom-miſſing Hand.</l>
+               <l>
+                  <hi>Diſeaſes,</hi> our beſt Servants, which we ſend</l>
+               <l>To bring curſt Mankind to his End,</l>
+               <l>They at their Pleaſure, as their Game, do kill;</l>
+               <l>And Torture them with Hell-affronting Skill.</l>
+               <l>Among the reſt, there's one; who, not content</l>
+               <l>With old Arts, ſtrange new Methods does invent</l>
+               <l>To Save the dwindling Slaves: Oft my wide Jaw</l>
+               <l>Has he left Tantaliz'd, Hungry my yearning Maw.</l>
+               <l>By ſuch large Steps his <hi>Art</hi> does climb,</l>
+               <l>And mingles <hi>Natural Cauſes</hi> ſo,</l>
+               <l>That in ſhort time</l>
+               <pb n="3" facs="tcp:181619:2"/>
+               <!-- PDF PAGE 11 -->
+               <l>His <hi>Skill</hi> to <hi>Miracle</hi> may grow.</l>
+               <l>E're long Hee'll cancel, at this rate,</l>
+               <l>The <hi>Adamantine</hi> Book of <hi>Fate.</hi>
+               </l>
+               <l>The very <hi>Sound</hi> of SHORT to Us</l>
+               <l>Is ominous.</l>
+               <l>So many of that <hi>Name,</hi>
+               </l>
+               <l>By croſſing Us, have won great Fame,</l>
+               <l>The <hi>Ayr</hi> that Ecchoes Him's Infectious.</l>
+               <l>Who knows but his contriving Mind,</l>
+               <l>Some Proxy to the <hi>Tree of Life</hi> may find?</l>
+               <l>Then Woe to <hi>Death,</hi> and Woe to <hi>Hell;</hi>
+               </l>
+               <l>'Twere better Man had never fell.</l>
+               <l>Alone I dare not him attacque,</l>
+               <l>Unleſs Your ſelf my oft-foil'd Courage back.</l>
+               <l>Then ſpeak, Great <hi>Pluto,</hi> and your Counſel lend,</l>
+               <l>To bring our <hi>Maſter-Foe</hi> t'a ſudden End.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Highly concern'd at this complaining Speech</l>
+               <l>Of <hi>Death,</hi> his eldeſt Son;</l>
+               <l>Whom, in Time's Non-age, he begot</l>
+               <l>Upon the firſt damn'd <hi>Helliſh-Plot;</hi>
+               </l>
+               <l>Th'Infernal Tyrant did his Phang out-reach,</l>
+               <l>To ſhake him by his Hand of Bone;</l>
+               <l>And thus, in Breath of Brimſtone-Flame, begun:</l>
+               <l>
+                  <hi>It muſt, it muſt be done.</hi>
+               </l>
+               <l>Dip thy keen <hi>Arrow</hi> in <hi>Cocytus</hi> Flood;</l>
+               <l>Dip't <hi>deep,</hi> and from the bottom ſtirr th' envenom'd Mudd;</l>
+               <l>Then (ſee thou miſs not) ſhoot juſt at his Heart</l>
+               <l>The trebly-poiſon'd Dart:</l>
+               <l>This will elude all Help of Art.</l>
+               <l>He dipt it, and the Iro'n ſtraight Ruſty grew;</l>
+               <l>Yet burnt with Fire that's Blew.</l>
+               <l>Then, from his Augur-holes, <hi>Death</hi> took unerring aym,</l>
+               <l>And ſtruck his Heart with the <hi>Malignant Flame.</hi>
+               </l>
+               <pb n="4" facs="tcp:181619:3"/>
+               <!-- PDF PAGE 12 -->
+               <l>SHORT felt the Stroke; and ſtraight fore-told his Friend,</l>
+               <l>The Wound was Mortal, and would cauſe his End.</l>
+               <l>Ah! too-true Prophet! Thy Prognoſtick Skill</l>
+               <l>That ſeldome fail'd, in thy own Death was Undeceived ſtill.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>When of his dangerous Sickneſs the News ſpread,</l>
+               <l>Each Hearer lookt like one half-Dead.</l>
+               <l>As, when a <hi>General</hi>'s Mortal wound is told,</l>
+               <l>The Courage of the <hi>Army</hi> ſtraight grows cold;</l>
+               <l>So the dampt Hearts of all his <hi>Patients</hi> fell:</l>
+               <l>(And who was not, or would not be</l>
+               <l>Related to his ſtill-ſucceſsful Skill?)</l>
+               <l>And thought themſelves in Danger well as He.</l>
+               <l>Each one did know</l>
+               <l>How much to Him their Health and Life they owe.</l>
+               <l>His Brother-Sons-of-Art</l>
+               <l>In his Recovery ſtrove to have ſome part.</l>
+               <l>Above the reſt, Great BROWN (the double Heir</l>
+               <l>Of <hi>Norwich</hi>-Oracle; and Learned TERN)</l>
+               <l>No Watching, no Sollicitude did ſpare,</l>
+               <l>To do his Utmoſt in this <hi>dear</hi> Concern.</l>
+               <l>Had <hi>Fate</hi> been willing too,</l>
+               <l>His <hi>Skill</hi> things half-impoſſible could do.</l>
+               <l>He could all Rubbs, but Deſtiny, controwl:</l>
+               <l>No wonder; SHORT and <hi>He</hi> had but one <hi>Soul.</hi>
+               </l>
+               <l>But <hi>Art,</hi> by <hi>Friendſhip</hi> heighten'd, was too weak</l>
+               <l>Of Cauſes the Firm-linked Chain to break.</l>
+               <l>The deeply-coucht <hi>Malignant Ill</hi>
+               </l>
+               <l>From its cloſe <hi>Ambuſh</hi> mockt all <hi>Skill.</hi>
+               </l>
+               <l>
+                  <hi>Valour</hi> it ſelf did never know</l>
+               <l>How to Subdue an <hi>unſeen</hi> Foe.</l>
+               <l>The venomous Taint ſoon Conquer'd every part,</l>
+               <l>By ſeizing firſt the vigorous <hi>Nerves,</hi> and, next, Life's Seat, the <hi>Heart.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
